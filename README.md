@@ -1,1 +1,1 @@
-This file is mandatoryin projects
+This file is a mandatory projects
